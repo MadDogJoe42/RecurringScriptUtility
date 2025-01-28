@@ -9,7 +9,8 @@ Script to create Systemd services for common uses on linux Mint
 3. Navigate to /UserScripts/ and edit the individual scripts as needed. (Note that you will need to be open the files as root to edit them.)  
 
 # Additional Files:
-  Discord Example: example of how to update discord when the machine starts. The contents of this file replaces /UserScripts/StartupWithNetwork.sh 
+  ## Discord Example
+  Example of how to update discord when the machine starts. The contents of this file replaces "/UserScripts/StartupWithNetwork.sh".
 
 # Extra:
   Feedback is appreciated!
